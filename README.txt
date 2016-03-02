@@ -1,3 +1,8 @@
+Huffman Encoder and decoder for PGM images only. Compresses complex image by around 10%, and sample simple image by up to 90%.
+
+Leon Meyer
+Developed for CS4481
+
 Q8 is implemented in Compress. Compress takes a PGM image and compresses it.
 	compile Compress by inputting into the command line:
 	gcc -std=c99 compress.c libpnm.c -o Compress
